@@ -55,7 +55,6 @@ Methodology), and **inventory semantics**, recognising that two sources
 can both be correct while disagreeing, because they're measuring different
 things (physical stock vs. sellable stock).
 
----
 
 ## 3. Methodology
 
@@ -303,7 +302,7 @@ one dedicated regression test per bug found during adversarial review.
 literal requirements. 10/10 adversarial cases run clean, zero crashes
 (`adversarial_review.py`).
 
-### Example A — a genuine conflict, escalated (SKU-1005)
+### Observation 1 — a genuine conflict, escalated (SKU-1005)
 
 - Noise Cancelling Headphones, unit cost £89.99. WMS: 12 (5 min old), 3PL: 13
 (60 min old), e-commerce: 45 (110 min old) — all within their own freshness
@@ -313,7 +312,7 @@ windows, so not a timing lag.
 `|12-45| x £89.99 = £2,969.67` → above £500 → **escalate**, recommended
 value 12 units.
 
-### Example B — not a conflict at all (SKU-1011)
+### Observation 2 — not a conflict at all (SKU-1011)
 
 - Portable SSD, unit cost £64.50. WMS: 50, 3PL: 49 (physical), e-commerce: 42
 (sellable). Raw spread of 8 looks exactly like example A.
@@ -322,7 +321,7 @@ spread of 1, well within tolerance. **Classified CONSISTENT, no_action.**
 This is the case that best shows the agent reasoning about *why* numbers
 differ, not just detecting *that* they differ.
 
-### Example C — the corroboration fix (SKU-1010)
+### Observation 3 — the corroboration fix (SKU-1010)
 
 - Ergonomic Wrist Rest, unit cost £7.85. WMS: 5, e-commerce: 40, 3PL: 42 —
 e-commerce and 3PL independently agree within 2 units; WMS stands alone.
@@ -331,7 +330,8 @@ adding corroboration, TPL wins (composite 0.615, corroboration 0.5) over
 WMS (0.603, corroboration 0.0), a properly narrow, defensible margin
 instead of a confidently wrong call. Impact = `£290.45` → **flag_for_review**.
 
-### Example D — refusing to guess on stale data (SKU-1013)
+### Observation 4
+— refusing to guess on stale data (SKU-1013)
 
 - Anti-Static Wrist Strap, unit cost £6.40. WMS: 8 (~3.5 days old), e-commerce:
 25 (~2 days old), 3PL: 9 (~2 days old), every source is outside its own
@@ -421,3 +421,7 @@ building more of it and I think that habit matters more for an autonomous system
 | `logs/reconciliation_log.jsonl` | One JSON record per SKU (88 total): evidence, checks trail, trust scores, reasoning, action, corrections. Machine-readable, committed so a reviewer can read a real run without executing anything. |
 | `logs/reconciliation_summary.md` | The same decisions rendered as human-readable Markdown. |
 | `logs/corrections.jsonl` | Real write-back records for every `auto_reconcile` decision (case ID, target source, old/new quantity). |
+
+## Note:
+The methodology idea and the project structure is my own work. Code development was assisted by Claude. All outputs have been reviewed and edited to accurately reflect my work.
+
