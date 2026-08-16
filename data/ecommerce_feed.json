@@ -1,0 +1,445 @@
+{
+  "generated_at": "2026-08-14T15:00:00",
+  "items": [
+    {
+      "product_id": "PID-88231",
+      "stock_level": 41,
+      "last_synced": "2026-08-14T14:40:00"
+    },
+    {
+      "product_id": "PID-88232",
+      "stock_level": 60,
+      "last_synced": "2026-08-14T14:56:00"
+    },
+    {
+      "product_id": "PID-88233",
+      "stock_level": 24,
+      "last_synced": "2026-08-14T14:20:00"
+    },
+    {
+      "product_id": "PID-88234",
+      "stock_level": 18,
+      "last_synced": "2026-08-14T14:25:00"
+    },
+    {
+      "product_id": "PID-88235",
+      "stock_level": 45,
+      "last_synced": "2026-08-14T13:10:00"
+    },
+    {
+      "product_id": "PID-88236",
+      "stock_level": 16,
+      "last_synced": "2026-08-14T14:30:00"
+    },
+    {
+      "product_id": "PID-88237",
+      "stock_level": 19,
+      "last_synced": "2026-08-14T14:35:00"
+    },
+    {
+      "product_id": "PID-88238",
+      "stock_level": 38,
+      "last_synced": "2026-08-14T12:50:00"
+    },
+    {
+      "product_id": "PID-88239",
+      "stock_level": 34,
+      "last_synced": "2026-08-14T13:50:00"
+    },
+    {
+      "product_id": "PID-88240",
+      "stock_level": 40,
+      "last_synced": "2026-08-14T14:40:00"
+    },
+    {
+      "product_id": "PID-88241",
+      "stock_level": 42,
+      "last_synced": "2026-08-14T14:45:00"
+    },
+    {
+      "product_id": "PID-88242",
+      "stock_level": 24,
+      "last_synced": "2026-08-14T14:40:00"
+    },
+    {
+      "product_id": "PID-88243",
+      "stock_level": 25,
+      "last_synced": "2026-08-12T13:00:00"
+    },
+    {
+      "product_id": "PID-90000",
+      "stock_level": 68,
+      "last_synced": "2026-08-14T14:27:00"
+    },
+    {
+      "product_id": "PID-90001",
+      "stock_level": 82,
+      "last_synced": "2026-08-14T13:40:00"
+    },
+    {
+      "product_id": "PID-90002",
+      "stock_level": 28,
+      "last_synced": "2026-08-14T13:38:00"
+    },
+    {
+      "product_id": "PID-90003",
+      "stock_level": 114,
+      "last_synced": "2026-08-14T14:27:00"
+    },
+    {
+      "product_id": "PID-90004",
+      "stock_level": 154,
+      "last_synced": "2026-08-14T14:01:00"
+    },
+    {
+      "product_id": "PID-90005",
+      "stock_level": 90,
+      "last_synced": "2026-08-14T14:44:00"
+    },
+    {
+      "product_id": "PID-90006",
+      "stock_level": 195,
+      "last_synced": "2026-08-14T14:50:00"
+    },
+    {
+      "product_id": "PID-90007",
+      "stock_level": 74,
+      "last_synced": "2026-08-14T13:45:00"
+    },
+    {
+      "product_id": "PID-90008",
+      "stock_level": 196,
+      "last_synced": "2026-08-14T13:31:00"
+    },
+    {
+      "product_id": "PID-90009",
+      "stock_level": 53,
+      "last_synced": "2026-08-14T14:20:00"
+    },
+    {
+      "product_id": "PID-90010",
+      "stock_level": 219,
+      "last_synced": "2026-08-14T13:33:00"
+    },
+    {
+      "product_id": "PID-90011",
+      "stock_level": 286,
+      "last_synced": "2026-08-14T14:07:00"
+    },
+    {
+      "product_id": "PID-90012",
+      "stock_level": 296,
+      "last_synced": "2026-08-14T14:26:00"
+    },
+    {
+      "product_id": "PID-90013",
+      "stock_level": 217,
+      "last_synced": "2026-08-14T14:28:00"
+    },
+    {
+      "product_id": "PID-90014",
+      "stock_level": 269,
+      "last_synced": "2026-08-14T13:41:00"
+    },
+    {
+      "product_id": "PID-90015",
+      "stock_level": 198,
+      "last_synced": "2026-08-14T14:44:00"
+    },
+    {
+      "product_id": "PID-90016",
+      "stock_level": 89,
+      "last_synced": "2026-08-14T14:06:00"
+    },
+    {
+      "product_id": "PID-90017",
+      "stock_level": 250,
+      "last_synced": "2026-08-14T14:41:00"
+    },
+    {
+      "product_id": "PID-90018",
+      "stock_level": 185,
+      "last_synced": "2026-08-14T13:57:00"
+    },
+    {
+      "product_id": "PID-90019",
+      "stock_level": 267,
+      "last_synced": "2026-08-14T13:35:00"
+    },
+    {
+      "product_id": "PID-90020",
+      "stock_level": 271,
+      "last_synced": "2026-08-14T14:35:00"
+    },
+    {
+      "product_id": "PID-90021",
+      "stock_level": 177,
+      "last_synced": "2026-08-14T14:16:00"
+    },
+    {
+      "product_id": "PID-90022",
+      "stock_level": 134,
+      "last_synced": "2026-08-14T13:53:00"
+    },
+    {
+      "product_id": "PID-90023",
+      "stock_level": 94,
+      "last_synced": "2026-08-14T13:48:00"
+    },
+    {
+      "product_id": "PID-90024",
+      "stock_level": 120,
+      "last_synced": "2026-08-14T14:04:00"
+    },
+    {
+      "product_id": "PID-90025",
+      "stock_level": 276,
+      "last_synced": "2026-08-14T14:47:00"
+    },
+    {
+      "product_id": "PID-90026",
+      "stock_level": 294,
+      "last_synced": "2026-08-14T14:46:00"
+    },
+    {
+      "product_id": "PID-90027",
+      "stock_level": 45,
+      "last_synced": "2026-08-14T13:50:00"
+    },
+    {
+      "product_id": "PID-90028",
+      "stock_level": 261,
+      "last_synced": "2026-08-14T14:24:00"
+    },
+    {
+      "product_id": "PID-90029",
+      "stock_level": 109,
+      "last_synced": "2026-08-14T14:01:00"
+    },
+    {
+      "product_id": "PID-90030",
+      "stock_level": 38,
+      "last_synced": "2026-08-14T14:04:00"
+    },
+    {
+      "product_id": "PID-90031",
+      "stock_level": 140,
+      "last_synced": "2026-08-14T14:38:00"
+    },
+    {
+      "product_id": "PID-90032",
+      "stock_level": 155,
+      "last_synced": "2026-08-14T13:45:00"
+    },
+    {
+      "product_id": "PID-90033",
+      "stock_level": 288,
+      "last_synced": "2026-08-14T14:34:00"
+    },
+    {
+      "product_id": "PID-90034",
+      "stock_level": 257,
+      "last_synced": "2026-08-14T14:34:00"
+    },
+    {
+      "product_id": "PID-90035",
+      "stock_level": 211,
+      "last_synced": "2026-08-14T14:01:00"
+    },
+    {
+      "product_id": "PID-90036",
+      "stock_level": 108,
+      "last_synced": "2026-08-14T14:15:00"
+    },
+    {
+      "product_id": "PID-90037",
+      "stock_level": 256,
+      "last_synced": "2026-08-14T14:48:00"
+    },
+    {
+      "product_id": "PID-90038",
+      "stock_level": 48,
+      "last_synced": "2026-08-14T14:40:00"
+    },
+    {
+      "product_id": "PID-90039",
+      "stock_level": 32,
+      "last_synced": "2026-08-14T14:22:00"
+    },
+    {
+      "product_id": "PID-90040",
+      "stock_level": 172,
+      "last_synced": "2026-08-14T13:30:00"
+    },
+    {
+      "product_id": "PID-90041",
+      "stock_level": 172,
+      "last_synced": "2026-08-14T13:57:00"
+    },
+    {
+      "product_id": "PID-90042",
+      "stock_level": 287,
+      "last_synced": "2026-08-14T14:11:00"
+    },
+    {
+      "product_id": "PID-90043",
+      "stock_level": 201,
+      "last_synced": "2026-08-14T13:37:00"
+    },
+    {
+      "product_id": "PID-90044",
+      "stock_level": 295,
+      "last_synced": "2026-08-14T14:22:00"
+    },
+    {
+      "product_id": "PID-90045",
+      "stock_level": 316,
+      "last_synced": "2026-08-14T14:29:00"
+    },
+    {
+      "product_id": "PID-90046",
+      "stock_level": 261,
+      "last_synced": "2026-08-14T13:34:00"
+    },
+    {
+      "product_id": "PID-90047",
+      "stock_level": 33,
+      "last_synced": "2026-08-14T13:34:00"
+    },
+    {
+      "product_id": "PID-90048",
+      "stock_level": 111,
+      "last_synced": "2026-08-14T14:41:00"
+    },
+    {
+      "product_id": "PID-90049",
+      "stock_level": 292,
+      "last_synced": "2026-08-14T13:45:00"
+    },
+    {
+      "product_id": "PID-90050",
+      "stock_level": 76,
+      "last_synced": "2026-08-14T14:10:00"
+    },
+    {
+      "product_id": "PID-90051",
+      "stock_level": 65,
+      "last_synced": "2026-08-14T13:36:00"
+    },
+    {
+      "product_id": "PID-90052",
+      "stock_level": 96,
+      "last_synced": "2026-08-14T14:52:00"
+    },
+    {
+      "product_id": "PID-90053",
+      "stock_level": 182,
+      "last_synced": "2026-08-14T14:21:00"
+    },
+    {
+      "product_id": "PID-90054",
+      "stock_level": 68,
+      "last_synced": "2026-08-14T14:27:00"
+    },
+    {
+      "product_id": "PID-90055",
+      "stock_level": 191,
+      "last_synced": "2026-08-14T14:52:00"
+    },
+    {
+      "product_id": "PID-90056",
+      "stock_level": 180,
+      "last_synced": "2026-08-14T14:11:00"
+    },
+    {
+      "product_id": "PID-90057",
+      "stock_level": 285,
+      "last_synced": "2026-08-14T14:22:00"
+    },
+    {
+      "product_id": "PID-90058",
+      "stock_level": 147,
+      "last_synced": "2026-08-14T14:11:00"
+    },
+    {
+      "product_id": "PID-90059",
+      "stock_level": 234,
+      "last_synced": "2026-08-14T14:06:00"
+    },
+    {
+      "product_id": "PID-90060",
+      "stock_level": 34,
+      "last_synced": "2026-08-14T14:09:00"
+    },
+    {
+      "product_id": "PID-90061",
+      "stock_level": 181,
+      "last_synced": "2026-08-14T13:51:00"
+    },
+    {
+      "product_id": "PID-90062",
+      "stock_level": 221,
+      "last_synced": "2026-08-14T14:31:00"
+    },
+    {
+      "product_id": "PID-90063",
+      "stock_level": 206,
+      "last_synced": "2026-08-14T14:04:00"
+    },
+    {
+      "product_id": "PID-90064",
+      "stock_level": 158,
+      "last_synced": "2026-08-14T13:56:00"
+    },
+    {
+      "product_id": "PID-90065",
+      "stock_level": 120,
+      "last_synced": "2026-08-14T14:19:00"
+    },
+    {
+      "product_id": "PID-90066",
+      "stock_level": 132,
+      "last_synced": "2026-08-14T14:37:00"
+    },
+    {
+      "product_id": "PID-90067",
+      "stock_level": 136,
+      "last_synced": "2026-08-14T13:57:00"
+    },
+    {
+      "product_id": "PID-90068",
+      "stock_level": 112,
+      "last_synced": "2026-08-14T14:04:00"
+    },
+    {
+      "product_id": "PID-90069",
+      "stock_level": 15,
+      "last_synced": "2026-08-14T14:27:00"
+    },
+    {
+      "product_id": "PID-90070",
+      "stock_level": 277,
+      "last_synced": "2026-08-14T14:40:00"
+    },
+    {
+      "product_id": "PID-90071",
+      "stock_level": 249,
+      "last_synced": "2026-08-14T13:59:00"
+    },
+    {
+      "product_id": "PID-90072",
+      "stock_level": 241,
+      "last_synced": "2026-08-14T14:22:00"
+    },
+    {
+      "product_id": "PID-90073",
+      "stock_level": 154,
+      "last_synced": "2026-08-14T13:35:00"
+    },
+    {
+      "product_id": "PID-90074",
+      "stock_level": 236,
+      "last_synced": "2026-08-14T14:21:00"
+    }
+  ]
+}
